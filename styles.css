@@ -59,6 +59,7 @@ body {
   cursor: pointer;
   border-radius: 16px;
   transition: transform 0.3s;
+  opacity: 0.9;
 }
 
 .name-button {
@@ -79,6 +80,7 @@ body {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  opacity: 0.9;
 }
 
 .export-button {
@@ -95,6 +97,7 @@ body {
   cursor: pointer;
   border-radius: 50%;
   transition: transform 0.3s;
+  opacity: 0.9;
 }
 
 .options-button {
@@ -111,6 +114,7 @@ body {
   cursor: pointer;
   border-radius: 50%;
   transition: transform 0.3s;
+  opacity: 0.9;
 }
 
 .card-container:hover .save-button {
